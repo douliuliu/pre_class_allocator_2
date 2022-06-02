@@ -1,0 +1,3 @@
+D:\myDeveloper\cmake-3.17.0-rc3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\allocator_2.dir/objects.a
+D:\myDeveloper\mingw64\bin\ar.exe cr CMakeFiles\allocator_2.dir/objects.a @CMakeFiles\allocator_2.dir\objects1.rsp
+D:\myDeveloper\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\allocator_2.dir/objects.a -Wl,--no-whole-archive  -o allocator_2.exe -Wl,--out-implib,liballocator_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\allocator_2.dir\linklibs.rsp

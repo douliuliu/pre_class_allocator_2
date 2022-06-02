@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/vscodeWorkPlace/pre_class_allocator_2/build",
+  "command": "D:\\myDeveloper\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\allocator_2.dir\\allocator_2.cpp.obj -c D:\\vscodeWorkPlace\\pre_class_allocator_2\\allocator_2.cpp",
+  "file": "D:/vscodeWorkPlace/pre_class_allocator_2/allocator_2.cpp"
+},
+{
+  "directory": "D:/vscodeWorkPlace/pre_class_allocator_2/build",
+  "command": "D:\\myDeveloper\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\allocator_2.dir\\Airplane.cpp.obj -c D:\\vscodeWorkPlace\\pre_class_allocator_2\\Airplane.cpp",
+  "file": "D:/vscodeWorkPlace/pre_class_allocator_2/Airplane.cpp"
+}
+]

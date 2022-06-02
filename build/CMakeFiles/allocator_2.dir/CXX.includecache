@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/vscodeWorkPlace/pre_class_allocator_2/Airplane.cpp
+iostream
+-
+Airplane.h
+D:/vscodeWorkPlace/pre_class_allocator_2/Airplane.h
+
+D:/vscodeWorkPlace/pre_class_allocator_2/Airplane.h
+stddef.h
+-
+
+D:/vscodeWorkPlace/pre_class_allocator_2/allocator_2.cpp
+iostream
+-
+Airplane.h
+D:/vscodeWorkPlace/pre_class_allocator_2/Airplane.h
+
